@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajeshkumarmallick
+- 👋 Hi, I’m @Rajesh kumar mallick
 - 👀 I’m interested in software field
 - 🌱 I’m currently learning full stack python
 - 💞️ I’m looking to collaborate on fullstack python project
